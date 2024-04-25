@@ -1,2 +1,2 @@
 # waste-classifier
-smart waste management app
+## smart waste management app
